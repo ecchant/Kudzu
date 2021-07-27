@@ -10,3 +10,4 @@ Kudzu (/ˈkʊdzuː/; also called Japanese arrowroot or Chinese arrowroot)[1][2] 
 <param ve-map center="Q1428" zoom="8">
 
 The vine densely climbs over other plants and trees and grows so rapidly that it smothers and kills them by blocking most of the sunlight.[3] The plants are in the genus Pueraria, in the pea family Fabaceae, subfamily Faboideae. The name is derived from the Japanese name for the plant East Asian arrowroot (Pueraria montana var. lobata), クズ or 葛 ('kuzu').[4][note 1] Where these plants are naturalized, they can be invasive and are considered noxious weeds. The plant is edible, but often sprayed with herbicides.[3]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kudzu_on_trees_in_Atlanta%2C_Georgia.jpg/1024px-Kudzu_on_trees_in_Atlanta%2C_Georgia.jpg">
