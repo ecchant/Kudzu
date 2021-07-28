@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Kudzu",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/cb0ee260e050bbb3ce13d5934c8cfb14b9ac496e53142cfec8b3c3f2957021dd",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:477.70697021484375,389.87042236328125,226.0906982421875,99.20648193359375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cf724364-5fb8-4310-b627-7e35b5aad479"
+  }
+]
